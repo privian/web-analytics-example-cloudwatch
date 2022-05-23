@@ -1,0 +1,13 @@
+{
+  "name": "privian-analytics-cloudwatch",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1140.0",
+    "serverless": "^3.18.1"
+  }
+}
